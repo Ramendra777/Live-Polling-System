@@ -44,7 +44,7 @@ A real-time interactive polling platform built using **Next.js (TypeScript)** on
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/live-polling-system.git
+git clone https://github.com/Ramendra777/Live-Polling-System
 cd live-polling-system
 ```
 
